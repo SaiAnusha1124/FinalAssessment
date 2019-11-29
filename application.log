@@ -1,0 +1,145 @@
+2019-11-29 11:27:50,535  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:27:59,905  INFO [main] LogReports:24 - failed :  :  Actual data : HOTELS Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:27:59,907  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:29:30,561  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:29:40,449  INFO [main] LogReports:24 - failed :  :  Actual data :  Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:29:40,450  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:34:24,154  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:34:34,507  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:34:34,508  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:35:42,771  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:35:52,132  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:35:52,133  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:42:59,333  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:43:09,864  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:43:09,865  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:48:57,099  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:49:07,000  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:49:07,001  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:50:57,866  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:51:08,980  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:51:08,981  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 11:55:46,766  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 11:55:55,869  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 11:55:55,870  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 12:08:54,494  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 12:10:07,558  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 12:12:33,282  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 12:14:48,467  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 12:18:39,329  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 15:43:31,743  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 15:43:44,539  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 15:43:44,540  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 15:49:23,002  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 15:49:33,540  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 15:49:33,541  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 15:51:22,026  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 15:51:33,274  INFO [main] LogReports:24 - failed :  :  Actual data : HOME Expected data : row expectedhomepage or column -1 does not exist  in xlsx
+2019-11-29 15:51:33,276  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 16:03:19,147  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:03:30,056  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 16:03:30,057  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 16:04:00,865  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:04:11,672  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 16:04:11,673  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 16:07:04,062  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:07:15,392  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 16:07:15,393  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 16:10:34,173  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:11:59,679  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:25:15,421  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:43:39,092  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:43:49,644  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 16:43:49,819  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 16:43:49,820  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 16:49:01,816  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 16:52:48,198  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:21:43,012  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:21:55,134  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:21:55,314  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:21:55,315  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:33:17,771  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:33:29,389  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:33:29,562  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:33:29,563  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:34:11,607  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:34:21,059  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:34:21,287  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:34:21,288  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:36:06,591  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:36:16,996  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:36:17,176  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:36:17,177  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:37:11,430  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:37:20,412  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:37:20,688  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:37:20,689  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:37:26,303  INFO [main] LogReports:24 - AAA
+2019-11-29 17:38:44,454  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:38:55,272  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:38:55,520  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:38:55,521  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:39:24,397  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:39:35,045  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:39:35,209  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:39:35,210  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:44:54,599  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:45:03,642  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:45:03,906  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:45:03,906  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:46:26,779  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:46:36,766  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:46:36,965  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:46:36,966  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:47:36,684  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:47:45,382  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:47:45,616  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:47:45,616  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 17:48:18,376  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 17:48:27,991  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 17:48:28,197  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 17:48:28,198  INFO [main] LogReports:24 - Validated phpTravels
+2019-11-29 18:07:36,036  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 18:07:48,215  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 18:07:48,413  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:07:48,413  INFO [main] LogReports:24 - Validated HomePage for phptravels 
+2019-11-29 18:08:12,153  INFO [main] LogReports:24 - Chrome is Started
+2019-11-29 18:08:22,608  INFO [main] LogReports:24 - Opened phpTravels url
+2019-11-29 18:08:22,801  INFO [main] LogReports:24 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:08:22,802  INFO [main] LogReports:24 - Validated HomePage for phptravels 
+2019-11-29 18:23:57,266  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:24:07,156  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:24:07,360  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:24:07,361  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:24:07,361  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:30:02,388  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:30:11,875  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:30:12,027  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:30:12,028  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:30:12,029  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:33:36,264  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:33:45,658  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:33:45,849  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:33:45,850  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:33:45,851  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:35:24,959  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:35:34,847  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:35:35,007  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:35:35,008  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:35:35,009  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:36:33,955  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:36:43,927  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:36:44,133  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:36:44,134  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:36:44,134  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:38:03,866  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:38:15,435  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:38:15,655  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:38:15,656  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:38:15,657  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:40:40,119  INFO [main] LogReports:22 - Chrome is Started
+2019-11-29 18:40:49,841  INFO [main] LogReports:22 - Opened phpTravels url
+2019-11-29 18:40:50,107  INFO [main] LogReports:22 - Passed :  :  Actual data : HOME Expected data : HOME
+2019-11-29 18:40:50,108  INFO [main] LogReports:22 - Validated HomePage for phptravels 
+2019-11-29 18:40:50,108  INFO [main] LogReports:22 - Validated phpTravels
+2019-11-29 18:40:53,338  INFO [main] LogReports:22 - Date clicked on after 10 days 
